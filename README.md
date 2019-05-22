@@ -1,1 +1,1 @@
-# sample file while iam learning git working.
+# sample file while iam learning how git hub works.
